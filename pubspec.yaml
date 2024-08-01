@@ -1,6 +1,7 @@
 name: dio_logging_interceptor_v2
 description: "An Dio interceptor which logs HTTP request and response data"
 version: 1.0.0
+repository: https://github.com/rizkyghofur/dio_logging_interceptor_v2
 
 environment:
   sdk: ">=3.4.3 <4.0.0"
